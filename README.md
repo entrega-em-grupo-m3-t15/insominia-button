@@ -4,7 +4,7 @@
 
 1 - Exportar o arquivo no Isnmonia em formato .json para a sua máquina
 
-2 - criar um repositorio para colocar o arquivo
+2 - colocar o arquivo nesse repositório
 
 2 - Fazer o commit e o push do .json exportado
 
